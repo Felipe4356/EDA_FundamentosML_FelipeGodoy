@@ -1,8 +1,8 @@
 # EDA_FundamentosML_FelipeGodoy
 
-objetivo de esta evaluacion es analizar  los datos de cliente ver el comportamieno de los cliente
+objetivo de esta evaluacion es analizar el data set de los datos de cliente utilizando estadisticass descriptiva
 
--verificar tipos de datos 
+-verificacion analisis de
 
 -probabilidades
 
